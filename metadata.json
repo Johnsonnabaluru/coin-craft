@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A clean, modern, and mobile-first personal finance tracker with real-time balance calculations, category breakdowns, and offline persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
